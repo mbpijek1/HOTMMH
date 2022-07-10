@@ -17,7 +17,6 @@ G2L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 -- StarterGui.ScreenGui.ScrollingFrame
 G2L["2"] = Instance.new("ScrollingFrame", G2L["1"]);
 G2L["2"]["Active"] = true;
-G2L["2"]["CanvasPosition"] = Vector2.new(0, 150);
 G2L["2"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["2"]["Size"] = UDim2.new(0, 332, 0, 351);
 G2L["2"]["ScrollBarImageColor3"] = Color3.fromRGB(0, 0, 0);
